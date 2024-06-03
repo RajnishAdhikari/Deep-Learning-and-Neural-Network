@@ -21,3 +21,7 @@ Thumbs.db
 
 data/
 logs/
+Perceptorn_model/
+trained_model/
+
+*.pth
